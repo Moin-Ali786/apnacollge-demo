@@ -1,1 +1,2 @@
-# apnacollge-demo. Author Moin khan
+# apnacollge-demo.
+Author Moin khan
